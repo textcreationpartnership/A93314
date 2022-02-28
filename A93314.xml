@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christs birth misse-timed. Or, A resolution to a question about the time of Christs nativity; evidencing by Scripture, that Jesus Christ was not born in December. By R.S.</title>
+            <author>Skinner, Robert, 1591-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93314</idno>
+            <idno type="STC">Wing S3945</idno>
+            <idno type="STC">Thomason E477_24</idno>
+            <idno type="STC">ESTC R205570</idno>
+            <idno type="EEBO-CITATION">99864915</idno>
+            <idno type="PROQUEST">99864915</idno>
+            <idno type="VID">162534</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93314)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162534)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E477[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christs birth misse-timed. Or, A resolution to a question about the time of Christs nativity; evidencing by Scripture, that Jesus Christ was not born in December. By R.S.</title>
+                  <author>Skinner, Robert, 1591-1670.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Bartlet, at the sign of the Gilt Cup at Austins Gate, neer the Stump,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649 [i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>R. S. = Robert Skinner.</note>
+                  <note>Annotation on Thomason copy: "Decemb. 24"; "1648".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Nativity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162534:1" rendition="simple:additions"/>
+            <p>CHRISTS BIRTH Miſſe-timed.</p>
+            <p>OR, A <hi>Reſolution</hi> to a <hi>Queſtion</hi> about the Time of Chriſts Nativity; Evi<g ref="char:EOLhyphen"/>dencing by Scripture, That JESUS CHRIST was not Born in <hi>December.</hi>
+            </p>
+            <p>By <hi>R. S.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Bartlet,</hi> at the Sign of the <hi>Gilt Cup</hi> at <hi>Auſtins</hi> Gate, neer the Stump. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162534:2"/>
+            <pb n="3" facs="tcp:162534:2"/>
+            <head>A <hi>Reſolution</hi> to the Right Honourable, the Lord <hi>Carewe's</hi> queſtion, touching the true time of the <hi>Conception</hi> and <hi>Birth</hi> both of <hi>John Baptiſt,</hi> and alſo of our SAVIOUR.</head>
+            <div n="1" type="section">
+               <head>
+                  <hi>Sect. I.</hi> The Preface</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">R</seg>Ight Honourable,</hi> Seeing we all agree in the <hi>ſubſtance,</hi> and differ onely three months in the <hi>circumſtance</hi> of time, (premiſing that of <hi>Tullies, Loquendum ut vulgus, ſentiendum tamen ut ſapien<g ref="char:EOLhyphen"/>tes,</hi>) for that I am carefull that the leaſt ſchiſme ſhould be made in Chriſts <hi>Tunica,</hi> which is ſeam<g ref="char:EOLhyphen"/>leſſe and <hi>unica:</hi> I have ſent your Honour this reſolution, not out of <hi>Beroaldus, Bucholcerus,</hi> and <hi>Broughton,</hi> but out of the <hi>ſacred Scriptures,</hi> which we are commanded to ſearch, eſpecially in difficult points.</p>
+            </div>
+            <div n="2" type="section">
+               <head>
+                  <hi>Sect. II.</hi> The true Time of Chriſts Nativity Evidenced.</head>
+               <p>THe Conception of <hi>John Baptiſt</hi> was in the month of <hi>June</hi> as the Hebrews reckon their months; Therefore Chriſts con<g ref="char:EOLhyphen"/>ception muſt needs be in the ſixth month following <hi>June,</hi> which is <hi>December,</hi> where we ignorantly make his <hi>Birth.</hi>
+               </p>
+               <p n="1">1. The <hi>Conſequent</hi> of the <hi>major</hi> is proved, for that <hi>John Baptiſt</hi> was ſix months elder then Chriſt, as appears <hi>Luke l.</hi> 36. <hi>And be<g ref="char:EOLhyphen"/>hold thy couſen</hi> Elizabeth <hi>ſhe hath alſo conceived a ſon in her old age,
+<pb n="4" facs="tcp:162534:3"/>and this is her ſixth month which was called barren.</hi> Now compare the 26. <hi>v.</hi> with the precedent 36. <hi>v.</hi> and it will appear that this ſixth month of <hi>Johns</hi> age in his mothers womb, was the ſame ſixth month in which the Angel <hi>Gabriel</hi> was ſent to the Virgin <hi>Mary,</hi> and in which ſhe conceived Chriſt, as the words ſhew, <hi>v.</hi> 26. <hi>And in the ſixth month,</hi> (viz. in which <hi>John</hi> was ſix months old) <hi>the Angel</hi> Gabriel <hi>was ſent from God to a City of Galile na<g ref="char:EOLhyphen"/>med Nazareth to the Virgin Mary, &amp;c.</hi> And <hi>v.</hi> 31. his meſſage is declared to be this; <hi>For lo thou ſhalt conceive in thy womb, and beare a ſonne, and ſhalt call his name Jeſus.</hi> The Virgin then con<g ref="char:EOLhyphen"/>ceived <hi>Ieſus</hi> in the ſame ſixth month of <hi>Iohns</hi> age, <hi>Iohn</hi> was then ſix months old at Chriſts conception; Therefore Chriſt was con<g ref="char:EOLhyphen"/>ſequently conceived in <hi>December</hi> after, and not borne then as the calculation is <hi>[groundleſſely]</hi> made.</p>
+               <p n="2">2. Secondly, Now that <hi>Johns</hi> conception was in <hi>Iune</hi> (&amp; not his birth as we make it) is proved by the courſe of <hi>Abbia,</hi> being the eighth courſe of the 24 courſes of the Prieſts as is proved 1 <hi>Chro.</hi> 24.10. The ſeventh lot fell to <hi>Hakkoz,</hi> the eighth to <hi>Abbia.</hi> Now <hi>Zacharias</hi> the father of <hi>Iohn Baptiſt</hi> was of this eighth courſe or lot of <hi>Abbia, Luke</hi> 1.5. <hi>In the time of</hi> Herod <hi>King of</hi> Judea <hi>there was a certaine Prieſt named</hi> Zacharias <hi>of the courſe of</hi> Abbia <hi>and his wife was of the daughters of</hi> Aaron, <hi>and her name was Eliza<g ref="char:EOLhyphen"/>beth, and they had no child,</hi> v. 6. <hi>and verſ.</hi> 13. The Angell <hi>Gabriel verſ.</hi> 19, told him; <hi>Thy wife</hi> Elizabeth <hi>ſhall beare thee a ſonne, and thou ſhalt call his name</hi> Iohn. And <hi>v.</hi> 23. <hi>And when the dayes of his Office was fulfilled, he departed to his own houſe.</hi> And <hi>v.</hi> 24. <hi>And after thoſe dayes his wife</hi> Elizabeth <hi>conceived,</hi> after the end of his Eighth courſe in the beginning of <hi>Iuly,</hi> after our accompt; for their <hi>Iune</hi> containes part of our <hi>Iuly. And ſhe hid her ſelfe five moneths, ſaying.</hi> And <hi>v.</hi> 25. in the ſixth moneth after <hi>Elizabeths</hi> conception the Angel was ſent to <hi>Mary</hi> to tell her of her con<g ref="char:EOLhyphen"/>ception of Chriſt. Now for as much as the Jewes did begin to reckon their years from the month of <hi>Niſan</hi> or <hi>Abib,</hi> part of our <hi>March</hi> and <hi>April,</hi> which was the firſt of the months of the ſa<g ref="char:EOLhyphen"/>cred year ſince their going out of <hi>Aegypt,</hi> as appears, <hi>Exod.</hi> 12.2. <hi>This month ſhall be unto you the beginning of months, it ſhall be un<g ref="char:EOLhyphen"/>to you the first month of the year.</hi> Now <hi>chapt.</hi> 13.4. <hi>Moſes</hi> tels you what month he means (by <hi>this month</hi>) <hi>This day came ye out
+<pb n="5" facs="tcp:162534:3"/>in the month of Abib,</hi> the month corne began to eare, containing part of our <hi>March</hi> and part of our <hi>April.</hi> Now begin thou thy reckoning from <hi>Abib</hi> or <hi>March,</hi> giving and allowing to e<g ref="char:EOLhyphen"/>very lot or courſe of the 24 courſes of the Prieſts one Fortnight, (for there were 24 courſes of Prieſts and but 12 months, there<g ref="char:EOLhyphen"/>fore every Prieſt muſt needs ſerve a fortnight for his courſe for 24 fortnights makes 12 months;) And ſo the eighth fortnight or courſe ſhall fall to <hi>Abbia,</hi> of which <hi>Zachary was,</hi> which was in <hi>Iune,</hi> after the Hebrews accompt.</p>
+               <p>For two courſes in <hi>March,</hi> and two courſes more in <hi>April</hi> fol<g ref="char:EOLhyphen"/>lowing make foure courſes, two more in <hi>May</hi> make ſix, and two more in <hi>June</hi> make eight. The eighth <hi>Abbia's</hi> courſe, of which <hi>Zacharias</hi> was. I conclude then <hi>Johns</hi> Conception to be in <hi>June,</hi> where we make his Birth, which in truth was in <hi>March</hi> follow<g ref="char:EOLhyphen"/>ing. And ſo conſequently Chriſts Conception was in <hi>Decem<g ref="char:EOLhyphen"/>ber,</hi> ſix moneths after <hi>Johns</hi> Conception, in which <hi>December</hi> we make Chriſts Birth, which Birth of Chriſt was in truth in <hi>September</hi> following in the <hi>Feaſt of Tabernacles,</hi> beginning at the 15. of <hi>Septem.</hi> and laſting 8. days, till the end of the 22. day, in which feaſt time of 8. dayes <hi>Chriſt pitched in the Tabernacle of his fleſh amongſt us,</hi> as appears, <hi>John</hi> 1.14. <hi>And the word was made fleſh,</hi> [<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>] <hi>and pitched his Taber<g ref="char:EOLhyphen"/>nacle amongſt us. He became a Scaenite.</hi> Thus behold the ſweet Harmony between the <hi>Type</hi> and the thing <hi>typified,</hi> for Chriſt came not to break the Law, but to fulfill it.</p>
+               <p>And thus deſiring your Honour to vindicate my credit from the unjuſt imputation that ſome, peradventure ſeeing this, may lay upon me as a Brocher of Novelties, in that I endeavour to wade further in the Originals, and paralleling of Scriptures then the vulgar do, having written this to ſatisfie your Honours re<g ref="char:EOLhyphen"/>queſt only, I reſt now and ever.</p>
+               <closer>
+                  <signed>Your Honours obliged in all Duty and Service. <hi>R. S.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div n="3" type="section">
+               <pb n="6" facs="tcp:162534:4"/>
+               <head>
+                  <hi>Sect. III.</hi> Of the Occaſion of this error, the invalidity where<g ref="char:EOLhyphen"/>of is manifeſted.</head>
+               <p>SAint <hi>Chryſoſtome,</hi>
+                  <note place="margin">Poſtſcript.</note> miſtaking the ſtory of <hi>Zachary, Johns</hi> fa<g ref="char:EOLhyphen"/>ther; was the occaſion of this error in circumſtance of time. For he ſuppoſed that <hi>Zachary</hi> miniſtred in the Prieſts office in the ſeventh moneth, which is <hi>September,</hi> and fourteenth courſe of the Prieſts, and not in the fourth moneth <hi>June,</hi> and eighth courſe, which is the truth; thus we following his cal<g ref="char:EOLhyphen"/>culation, Chriſts Conception was in <hi>March,</hi> and his birth in <hi>De<g ref="char:EOLhyphen"/>cember,</hi> as we commonly reckon. Now that which deceived the golden mouth'd father, (though all is not gold that gliſters) was this. <hi>Chryſoſtome</hi> ſuppoſed, (as <hi>Arias Montanus</hi> the Popiſh Spa<g ref="char:EOLhyphen"/>niard doth,) that <hi>Zachary</hi> was the High Prieſt, and therefore the courſe of his miniſtry muſt needs be on the 10. of <hi>Septem.</hi> the ſeventh moneth, becauſe on that day, only called <hi>(Iom Haccip<g ref="char:EOLhyphen"/>purim</hi>) the <hi>day of expiation of ſinnes,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> and reconciliation, the High-Prieſt muſt go into the <hi>Debyr,</hi> the <hi>Oracle,</hi> or <hi>Sanctum San<g ref="char:EOLhyphen"/>ctorum</hi> once a yeare only. Now I will ſhew you <hi>Chryſoſtomes</hi> ground for theſe two things that moved him to thinke. 1. That <hi>Zachary</hi> was High Prieſt. And 2. That therefore conſequently he muſt on the 10. of <hi>Septem.</hi> go into the <hi>Sanctum Sanctorum.</hi>
+               </p>
+               <p>
+                  <hi>Druſius</hi> on <hi>Luke</hi> 1.5. ſaith thus, <hi>In Hiſtoria Hebraica Johan<g ref="char:EOLhyphen"/>nes Baptiſtes vocatur,</hi>
+                  <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> (Cohen Gadol,) <hi>hoc eſt magnus, ſacerdos: quae vox aequè ſignificat Pontificem maximum &amp; Principem ſacer<g ref="char:EOLhyphen"/>dotum.</hi> Therefore its probable that <hi>Zachary</hi> was <hi>Princeps Sacer<g ref="char:EOLhyphen"/>dotum,</hi> which he might be, and yet not <hi>Sacerdos maximus.</hi> For though theſe two words <hi>Sacerdos maximus,</hi> and <hi>Princeps Sacerdo<g ref="char:EOLhyphen"/>tum</hi> be often promiſcuouſly uſed one for the other, yet the di<g ref="char:EOLhyphen"/>ſtinction is plaine in Scripture that <hi>Princeps ſacerdotum</hi> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>(Sar Haccohanim,)</hi> was the <hi>chiefe Prieſt</hi> only of eve<g ref="char:EOLhyphen"/>ry one of the 24. Claſſes or Courſes of Prieſts, and ſo its likely that <hi>Zachary</hi> was the <hi>Prince of the Prieſts,</hi> of his eighth courſe of <hi>Abbia.</hi> But <hi>Sacerdos maximus</hi> or <hi>Pontifex,</hi> is he that is Head of all the 24. Claſſes and Orders of Prieſts, which <hi>Za<g ref="char:EOLhyphen"/>chary</hi> was not. For theſe reaſons.</p>
+               <p>Firſt, becauſe he is called, <hi>Luke</hi> 1.5. [<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>] a <hi>cer<g ref="char:EOLhyphen"/>taine Prieſt,</hi> therefore not <hi>Pontifex maximus;</hi> for had it been
+<pb n="7" facs="tcp:162534:4"/>certaine that <hi>Zachary</hi> had been High Prieſt, <hi>Buke</hi> would have ſo ſtiled him, and not have ſpoken uncertainly of a certaine and known dignity in the Pronoune <hi>indefinite,</hi> [<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>quidam</hi>] which indefinite Pronoune, [<gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>] he preſently defines, ſaying <hi>Of the courſe of Abbia,</hi> ſo <hi>v.</hi> 8. Its ſaid of <hi>Zachary,</hi> that <hi>while he executed the Prieſts office before God.</hi> And St. <hi>Luke</hi> doth not ſtile him with the <hi>High-Prieſts office;</hi> which title of dignity to omit, had been an indignity offered by <hi>St. Luke</hi> to <hi>Za<g ref="char:EOLhyphen"/>chary.</hi>
+               </p>
+               <p>Secondly, for that it is ſaid, <hi>v.</hi> 8. <hi>that his Lot was to burne incenſe when he went into the Temple of the Lord.</hi> And <hi>v.</hi> 11. <hi>that there appeared an Angel to</hi> Zachary, <hi>ſtanding on the right ſide of the Altar of Incenſe.</hi> For theſe two reaſons <hi>Chryſoſtom</hi> &amp; <hi>Arias</hi> think <hi>Zachary</hi> to be an <hi>High-Prieſt,</hi> whereas all Jews know, that the <hi>Candleſtick, Table and Altar of Incenſe</hi> were without the <hi>Sanctum Sanctorum,</hi> (not within as they ſuppoſe,) and ther<g ref="char:EOLhyphen"/>fore being placed without, they were daily gone unto by <hi>Zachary,</hi> and other ſacrificers in their courſes. And thus much of <hi>Chryſoſtome's</hi> and <hi>Arias Montanus</hi> grounds, no ſolider then an Iriſh Quagmire to truſt to.</p>
+               <p>Thirdly, Mr. <hi>Broughton</hi> ſaith that <hi>there was an Old Record in Greek found at</hi> Rome, <hi>(as the Romaniſts ſay but it is not now extant to be ſhewed,) that mentioneth</hi> Zachary <hi>to have miniſtred in the ſeventh moneth.</hi> And thus all error cometh from <hi>Rome,</hi> that bitter Starre, <hi>Worme-wood,</hi> caſt into the fountains of the Scri<g ref="char:EOLhyphen"/>ptures and Vniverſities, to corrupt and <hi>bitter</hi> them, not to <hi>better</hi> them, as <hi>Moſes</hi> tree did the waters of bitter <hi>Marah.</hi> Now I will adde after Confutation of the error, a probable Confirma<g ref="char:EOLhyphen"/>tion of the truth.</p>
+               <p>The <hi>Rabbines</hi> in <hi>Midraſh Rabba</hi> conclude, <hi>that the</hi> Meſſias <hi>muſt be born in the moneth</hi> Aethanim <hi>or</hi> Tiſri, <hi>that is in</hi> Septem. <hi>the month of ſtrengths, full of feaſts, to teach of the</hi> Meſſias. And ſo agreeably we find in <hi>Moſes</hi> that the three chiefe Anniver<g ref="char:EOLhyphen"/>ſary Feaſts do foretell and typifie out Chriſt's times.</p>
+               <list>
+                  <item>1. Their <hi>Paſſeover,</hi> and our <hi>Eaſter</hi> prefiguring his death, fals out fitly in the firſt moneth for redemption from <hi>Egypt,</hi> and of our redemption by Chriſt,</item>
+                  <item>2. Their <hi>Feaſt of weeks,</hi> or harveſt, fifty dayes after the Paſſe<g ref="char:EOLhyphen"/>over,
+<pb n="8" facs="tcp:162534:5"/>or joy of the <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aw, when the fire of the Law was given <hi>Iſrael;</hi> jumps with our <hi>Pentecoſt</hi> or <hi>Whitſontide,</hi> when the fiery law of the ſpirit was given by Jeſus in cloven tongues, <hi>Acts</hi> 2.</item>
+                  <item>3, The <hi>feaſt</hi> of <hi>dwelling in Tabernacles</hi> on the 15. of <hi>Septem<g ref="char:EOLhyphen"/>ber,</hi> for eight dayes; Is ſuitable to our Lords pitching in the Ta<g ref="char:EOLhyphen"/>bernacle of his fleſh amongſt us, or his Nativity in <hi>Septem.</hi> the firſt moneth after the Creation. The feaſt of joyfull meditation of Gods dwelling in the cloud amongſt <hi>Iſrael,</hi> is a memoriall of Chriſt dwelling in the fleſh with us, <hi>Iohn</hi> 1.14. <hi>And the Word was made fleſh, and he pitched his Tabernacle amongſt us.</hi> So in 1 <hi>Kings</hi> 8.2. this is plainly typified. <hi>Solomon</hi> brings the <hi>Arke</hi> and <hi>Tabernacle</hi> into the Temple, in the ſe<g ref="char:EOLhyphen"/>venth moneth called <hi>Aethanim</hi> or <hi>September,</hi> moneth of ſtrength and fruits, and the <hi>Cherubims</hi> ſpread their wings over the Ark. This <hi>Arke</hi> and <hi>Tabernacle</hi> was the type of the <hi>Ark and Taber<g ref="char:EOLhyphen"/>nacle of Chriſts body:</hi> The bringing in of this Tabernacle into the Temple, the <hi>coming of Chriſt into the world,</hi> in the Temple of <hi>Zarobabel,</hi> under which he was borne, preached, and wrought miracles. And the Cherubims are the Angels, ſpread<g ref="char:EOLhyphen"/>ing their wings of Protection over him, proclayming him ſing<g ref="char:EOLhyphen"/>ing at his birth. And this was in the moneth <hi>Aethanim</hi> or <hi>Sep<g ref="char:EOLhyphen"/>tember,</hi> (the moneth of ſtrengths, or fruits and feaſts,) wherein Chriſt was borne, bringing ſtrength, and fruits of righteouſneſſe into the world.</item>
+               </list>
+               <p>And thus having ſhewed your Honour the ſweet Harmony between the <hi>type</hi> and the thing <hi>typified:</hi> the <hi>feaſt of Taberacles in September,</hi> and Chriſt in the ſame time pitching in this <hi>Taber<g ref="char:EOLhyphen"/>nacle of his fleſh,</hi> amongſt us; The Concent between the <hi>hiſtory</hi> and the <hi>myſtery,</hi> I conclude with that of the Apoſtle, <hi>Great is the myſtery of Godlineſſe, God-manifeſt in the fleſh.</hi> For the true Cal<g ref="char:EOLhyphen"/>culation of the monthes Conſult with <hi>Munſters Calendarium Hebraicum.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
